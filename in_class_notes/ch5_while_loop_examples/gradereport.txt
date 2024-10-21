@@ -1,0 +1,8 @@
+*************** Class Grade Report ****************
+Tony      Tiger     78.10 
+Ralph     Wiggum    82.40 
+Sara      Lawrence  95.00 
+Alexa     deAmazon  69.20 
+
+Class Average: 81.17
+***************************************************
