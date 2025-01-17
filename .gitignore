@@ -3,3 +3,4 @@
 !*.*
 *.plist
 /homework/*
+*.DS_Store
