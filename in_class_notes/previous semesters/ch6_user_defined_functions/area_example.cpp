@@ -8,7 +8,7 @@ using namespace std;
 double rectangleArea(double length, double width);
 double circleArea(double radius);
 
-const double pi = 3.141527; 
+const double PI = 3.141527; 
 
 int main()
 {
@@ -44,7 +44,7 @@ double rectangleArea(double length, double width)
 double circleArea(double radius)
 {
     double area;
-    area = pi * radius * radius;
+    area = PI * radius * radius;
     return area;
 }
 
